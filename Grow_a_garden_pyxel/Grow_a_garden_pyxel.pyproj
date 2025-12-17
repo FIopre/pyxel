@@ -24,9 +24,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.py" />
+    <Compile Include="shop.py" />
     <Compile Include="Stock.py" />
-    <Compile Include="fleur.py" />
-    <Compile Include="Pose_fleur.py" />
+    <Compile Include="fleurs.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
