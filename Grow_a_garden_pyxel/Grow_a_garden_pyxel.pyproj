@@ -24,6 +24,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.py" />
+    <Compile Include="hud.py" />
     <Compile Include="shop.py" />
     <Compile Include="Stock.py" />
     <Compile Include="fleurs.py" />
